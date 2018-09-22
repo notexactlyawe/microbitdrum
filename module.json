@@ -1,0 +1,12 @@
+{
+  "name": "microbitdrum",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "An air drum kit for the BBC micro:bit",
+  "author": "Cameron MacLeod <cmacleod170@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  }
+}
